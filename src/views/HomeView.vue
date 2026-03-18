@@ -34,7 +34,7 @@
 
 <script setup>
 import TaskForm from '../components/TaskForm.vue';
-import TaskItem from '../cnomponents/TaskItem.vue';
+import TaskItem from '../components/TaskItem.vue';
 import InstallButton from '../components/InstallButton.vue';
 import { useTasks } from '../composables/useTasks';
 
